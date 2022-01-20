@@ -18,7 +18,7 @@ Threads
 g++ threaded.cpp -pthread
 ./a.out NumOfThreads [l_dimension] <m_dimension n_dimmension>
 ```
-
+<br />
 
 
 MPI results
