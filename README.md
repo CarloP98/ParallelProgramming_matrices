@@ -19,4 +19,18 @@ g++ threaded.cpp -pthread
 ./a.out NumOfThreads [l_dimension] <m_dimension n_dimmension>
 ```
 
+<br /><br />
 
+
+MPI results
+![scrrenshot](img/time.png)
+![scrrenshot](img/speedup.png)
+![scrrenshot](img/efficiency,ong)
+<br /><br />
+
+
+
+
+
+https://en.wikipedia.org/wiki/Message_Passing_Interface
+https://en.wikipedia.org/wiki/OpenMP
