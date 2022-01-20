@@ -23,9 +23,9 @@ g++ threaded.cpp -pthread
 
 
 MPI results
-![scrrenshot](img/time.png)
-![scrrenshot](img/speedup.png)
-![scrrenshot](img/efficiency,ong)
+![scrrenshot](img/time.PNG)
+![scrrenshot](img/speedup.PNG)
+![scrrenshot](img/efficiency.PNG)
 <br /><br />
 
 
