@@ -22,7 +22,7 @@ float *a,*b,*c;
  
 void get_index_size(int argc,char *argv[],int *dim_l,int *dim_m,int *dim_n) { 
    if(argc!=5) { 
-      cout<<"usage: NumOfThreads   mm_mult_serial    [l_dimension]    <m_dimension n_dimmension>"<< 
+      cout<<"usage: NumOfThreads  [l_dimension]    <m_dimension n_dimmension>"<< 
 endl; 
       exit(1); 
    } 
